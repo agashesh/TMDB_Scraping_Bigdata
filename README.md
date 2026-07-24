@@ -129,7 +129,3 @@ dominate the distribution).
 > collection — unlike sites such as IMDb, which explicitly prohibit scraping
 > without written permission. No scraping of IMDb, Goodreads, or any site
 > that disallows automated data collection was performed for this project.
-
-## License
-
-For academic use — no license applied.
